@@ -1,0 +1,11 @@
+{
+  "flavors": {
+    "github": {
+      "stable": {
+        "version": "v1.0.0",
+        "version_code": 100,
+        "apk": "https://github.com/hashpeolo/azmovie/releases/download/v1.0.0/azmovie-v1.0.0.apk"
+      }
+    }
+  }
+}
